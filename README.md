@@ -13,3 +13,5 @@ npm install
 ```
 npm run build
 ```
+I found a command line which is very interesting to find weather if Node is installed
+it is: npm -v
